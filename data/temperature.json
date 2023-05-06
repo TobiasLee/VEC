@@ -1,0 +1,422 @@
+{"obj1": "dry ice", "obj2": "freezer", "label": 0}
+{"obj1": "dry ice", "obj2": "white frost", "label": 0}
+{"obj1": "dry ice", "obj2": "snow", "label": 0}
+{"obj1": "dry ice", "obj2": "icecream", "label": 0}
+{"obj1": "dry ice", "obj2": "ice", "label": 0}
+{"obj1": "dry ice", "obj2": "refrigerator", "label": 0}
+{"obj1": "dry ice", "obj2": "room temperature", "label": 0}
+{"obj1": "dry ice", "obj2": "water", "label": 0}
+{"obj1": "dry ice", "obj2": "rain", "label": 0}
+{"obj1": "dry ice", "obj2": "melted butter", "label": 0}
+{"obj1": "dry ice", "obj2": "human body", "label": 0}
+{"obj1": "dry ice", "obj2": "simmering soup ", "label": 0}
+{"obj1": "dry ice", "obj2": "water vapor", "label": 0}
+{"obj1": "dry ice", "obj2": "frying oil", "label": 0}
+{"obj1": "dry ice", "obj2": "deep red fire", "label": 0}
+{"obj1": "dry ice", "obj2": "melted aluminium", "label": 0}
+{"obj1": "dry ice", "obj2": "blue flame", "label": 0}
+{"obj1": "dry ice", "obj2": "melted steel", "label": 0}
+{"obj1": "dry ice", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "dry ice", "obj2": "sun", "label": 0}
+{"obj1": "dry ice", "obj2": "melted lead", "label": 0}
+{"obj1": "freezer", "obj2": "dry ice", "label": 1}
+{"obj1": "freezer", "obj2": "ice", "label": 0}
+{"obj1": "freezer", "obj2": "refrigerator", "label": 0}
+{"obj1": "freezer", "obj2": "room temperature", "label": 0}
+{"obj1": "freezer", "obj2": "water", "label": 0}
+{"obj1": "freezer", "obj2": "rain", "label": 0}
+{"obj1": "freezer", "obj2": "melted butter", "label": 0}
+{"obj1": "freezer", "obj2": "human body", "label": 0}
+{"obj1": "freezer", "obj2": "simmering soup ", "label": 0}
+{"obj1": "freezer", "obj2": "water vapor", "label": 0}
+{"obj1": "freezer", "obj2": "frying oil", "label": 0}
+{"obj1": "freezer", "obj2": "deep red fire", "label": 0}
+{"obj1": "freezer", "obj2": "melted aluminium", "label": 0}
+{"obj1": "freezer", "obj2": "blue flame", "label": 0}
+{"obj1": "freezer", "obj2": "melted steel", "label": 0}
+{"obj1": "freezer", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "freezer", "obj2": "sun", "label": 0}
+{"obj1": "freezer", "obj2": "melted lead", "label": 0}
+{"obj1": "white frost", "obj2": "dry ice", "label": 1}
+{"obj1": "white frost", "obj2": "refrigerator", "label": 0}
+{"obj1": "white frost", "obj2": "room temperature", "label": 0}
+{"obj1": "white frost", "obj2": "water", "label": 0}
+{"obj1": "white frost", "obj2": "rain", "label": 0}
+{"obj1": "white frost", "obj2": "melted butter", "label": 0}
+{"obj1": "white frost", "obj2": "human body", "label": 0}
+{"obj1": "white frost", "obj2": "simmering soup ", "label": 0}
+{"obj1": "white frost", "obj2": "water vapor", "label": 0}
+{"obj1": "white frost", "obj2": "frying oil", "label": 0}
+{"obj1": "white frost", "obj2": "deep red fire", "label": 0}
+{"obj1": "white frost", "obj2": "melted aluminium", "label": 0}
+{"obj1": "white frost", "obj2": "blue flame", "label": 0}
+{"obj1": "white frost", "obj2": "melted steel", "label": 0}
+{"obj1": "white frost", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "white frost", "obj2": "sun", "label": 0}
+{"obj1": "white frost", "obj2": "melted lead", "label": 0}
+{"obj1": "snow", "obj2": "dry ice", "label": 1}
+{"obj1": "snow", "obj2": "room temperature", "label": 0}
+{"obj1": "snow", "obj2": "water", "label": 0}
+{"obj1": "snow", "obj2": "rain", "label": 0}
+{"obj1": "snow", "obj2": "melted butter", "label": 0}
+{"obj1": "snow", "obj2": "human body", "label": 0}
+{"obj1": "snow", "obj2": "simmering soup ", "label": 0}
+{"obj1": "snow", "obj2": "water vapor", "label": 0}
+{"obj1": "snow", "obj2": "frying oil", "label": 0}
+{"obj1": "snow", "obj2": "deep red fire", "label": 0}
+{"obj1": "snow", "obj2": "melted aluminium", "label": 0}
+{"obj1": "snow", "obj2": "blue flame", "label": 0}
+{"obj1": "snow", "obj2": "melted steel", "label": 0}
+{"obj1": "snow", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "snow", "obj2": "sun", "label": 0}
+{"obj1": "snow", "obj2": "melted lead", "label": 0}
+{"obj1": "icecream", "obj2": "dry ice", "label": 1}
+{"obj1": "icecream", "obj2": "room temperature", "label": 0}
+{"obj1": "icecream", "obj2": "water", "label": 0}
+{"obj1": "icecream", "obj2": "rain", "label": 0}
+{"obj1": "icecream", "obj2": "melted butter", "label": 0}
+{"obj1": "icecream", "obj2": "human body", "label": 0}
+{"obj1": "icecream", "obj2": "simmering soup ", "label": 0}
+{"obj1": "icecream", "obj2": "water vapor", "label": 0}
+{"obj1": "icecream", "obj2": "frying oil", "label": 0}
+{"obj1": "icecream", "obj2": "deep red fire", "label": 0}
+{"obj1": "icecream", "obj2": "melted aluminium", "label": 0}
+{"obj1": "icecream", "obj2": "blue flame", "label": 0}
+{"obj1": "icecream", "obj2": "melted steel", "label": 0}
+{"obj1": "icecream", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "icecream", "obj2": "sun", "label": 0}
+{"obj1": "icecream", "obj2": "melted lead", "label": 0}
+{"obj1": "ice", "obj2": "dry ice", "label": 1}
+{"obj1": "ice", "obj2": "freezer", "label": 1}
+{"obj1": "ice", "obj2": "room temperature", "label": 0}
+{"obj1": "ice", "obj2": "water", "label": 0}
+{"obj1": "ice", "obj2": "rain", "label": 0}
+{"obj1": "ice", "obj2": "melted butter", "label": 0}
+{"obj1": "ice", "obj2": "human body", "label": 0}
+{"obj1": "ice", "obj2": "simmering soup ", "label": 0}
+{"obj1": "ice", "obj2": "water vapor", "label": 0}
+{"obj1": "ice", "obj2": "frying oil", "label": 0}
+{"obj1": "ice", "obj2": "deep red fire", "label": 0}
+{"obj1": "ice", "obj2": "melted aluminium", "label": 0}
+{"obj1": "ice", "obj2": "blue flame", "label": 0}
+{"obj1": "ice", "obj2": "melted steel", "label": 0}
+{"obj1": "ice", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "ice", "obj2": "sun", "label": 0}
+{"obj1": "ice", "obj2": "melted lead", "label": 0}
+{"obj1": "refrigerator", "obj2": "dry ice", "label": 1}
+{"obj1": "refrigerator", "obj2": "freezer", "label": 1}
+{"obj1": "refrigerator", "obj2": "white frost", "label": 1}
+{"obj1": "refrigerator", "obj2": "room temperature", "label": 0}
+{"obj1": "refrigerator", "obj2": "water", "label": 0}
+{"obj1": "refrigerator", "obj2": "rain", "label": 0}
+{"obj1": "refrigerator", "obj2": "melted butter", "label": 0}
+{"obj1": "refrigerator", "obj2": "human body", "label": 0}
+{"obj1": "refrigerator", "obj2": "simmering soup ", "label": 0}
+{"obj1": "refrigerator", "obj2": "water vapor", "label": 0}
+{"obj1": "refrigerator", "obj2": "frying oil", "label": 0}
+{"obj1": "refrigerator", "obj2": "deep red fire", "label": 0}
+{"obj1": "refrigerator", "obj2": "melted aluminium", "label": 0}
+{"obj1": "refrigerator", "obj2": "blue flame", "label": 0}
+{"obj1": "refrigerator", "obj2": "melted steel", "label": 0}
+{"obj1": "refrigerator", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "refrigerator", "obj2": "sun", "label": 0}
+{"obj1": "refrigerator", "obj2": "melted lead", "label": 0}
+{"obj1": "room temperature", "obj2": "dry ice", "label": 1}
+{"obj1": "room temperature", "obj2": "freezer", "label": 1}
+{"obj1": "room temperature", "obj2": "white frost", "label": 1}
+{"obj1": "room temperature", "obj2": "snow", "label": 1}
+{"obj1": "room temperature", "obj2": "icecream", "label": 1}
+{"obj1": "room temperature", "obj2": "ice", "label": 1}
+{"obj1": "room temperature", "obj2": "refrigerator", "label": 1}
+{"obj1": "room temperature", "obj2": "human body", "label": 0}
+{"obj1": "room temperature", "obj2": "simmering soup ", "label": 0}
+{"obj1": "room temperature", "obj2": "water vapor", "label": 0}
+{"obj1": "room temperature", "obj2": "frying oil", "label": 0}
+{"obj1": "room temperature", "obj2": "deep red fire", "label": 0}
+{"obj1": "room temperature", "obj2": "melted aluminium", "label": 0}
+{"obj1": "room temperature", "obj2": "blue flame", "label": 0}
+{"obj1": "room temperature", "obj2": "melted steel", "label": 0}
+{"obj1": "room temperature", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "room temperature", "obj2": "sun", "label": 0}
+{"obj1": "room temperature", "obj2": "melted lead", "label": 0}
+{"obj1": "water", "obj2": "dry ice", "label": 1}
+{"obj1": "water", "obj2": "freezer", "label": 1}
+{"obj1": "water", "obj2": "white frost", "label": 1}
+{"obj1": "water", "obj2": "snow", "label": 1}
+{"obj1": "water", "obj2": "icecream", "label": 1}
+{"obj1": "water", "obj2": "ice", "label": 1}
+{"obj1": "water", "obj2": "refrigerator", "label": 1}
+{"obj1": "water", "obj2": "human body", "label": 0}
+{"obj1": "water", "obj2": "simmering soup ", "label": 0}
+{"obj1": "water", "obj2": "water vapor", "label": 0}
+{"obj1": "water", "obj2": "frying oil", "label": 0}
+{"obj1": "water", "obj2": "deep red fire", "label": 0}
+{"obj1": "water", "obj2": "melted aluminium", "label": 0}
+{"obj1": "water", "obj2": "blue flame", "label": 0}
+{"obj1": "water", "obj2": "melted steel", "label": 0}
+{"obj1": "water", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "water", "obj2": "sun", "label": 0}
+{"obj1": "water", "obj2": "melted lead", "label": 0}
+{"obj1": "rain", "obj2": "dry ice", "label": 1}
+{"obj1": "rain", "obj2": "freezer", "label": 1}
+{"obj1": "rain", "obj2": "white frost", "label": 1}
+{"obj1": "rain", "obj2": "snow", "label": 1}
+{"obj1": "rain", "obj2": "icecream", "label": 1}
+{"obj1": "rain", "obj2": "ice", "label": 1}
+{"obj1": "rain", "obj2": "refrigerator", "label": 1}
+{"obj1": "rain", "obj2": "human body", "label": 0}
+{"obj1": "rain", "obj2": "simmering soup ", "label": 0}
+{"obj1": "rain", "obj2": "water vapor", "label": 0}
+{"obj1": "rain", "obj2": "frying oil", "label": 0}
+{"obj1": "rain", "obj2": "deep red fire", "label": 0}
+{"obj1": "rain", "obj2": "melted aluminium", "label": 0}
+{"obj1": "rain", "obj2": "blue flame", "label": 0}
+{"obj1": "rain", "obj2": "melted steel", "label": 0}
+{"obj1": "rain", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "rain", "obj2": "sun", "label": 0}
+{"obj1": "rain", "obj2": "melted lead", "label": 0}
+{"obj1": "melted butter", "obj2": "dry ice", "label": 1}
+{"obj1": "melted butter", "obj2": "freezer", "label": 1}
+{"obj1": "melted butter", "obj2": "white frost", "label": 1}
+{"obj1": "melted butter", "obj2": "snow", "label": 1}
+{"obj1": "melted butter", "obj2": "icecream", "label": 1}
+{"obj1": "melted butter", "obj2": "ice", "label": 1}
+{"obj1": "melted butter", "obj2": "refrigerator", "label": 1}
+{"obj1": "melted butter", "obj2": "simmering soup ", "label": 0}
+{"obj1": "melted butter", "obj2": "water vapor", "label": 0}
+{"obj1": "melted butter", "obj2": "frying oil", "label": 0}
+{"obj1": "melted butter", "obj2": "deep red fire", "label": 0}
+{"obj1": "melted butter", "obj2": "melted aluminium", "label": 0}
+{"obj1": "melted butter", "obj2": "blue flame", "label": 0}
+{"obj1": "melted butter", "obj2": "melted steel", "label": 0}
+{"obj1": "melted butter", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "melted butter", "obj2": "sun", "label": 0}
+{"obj1": "melted butter", "obj2": "melted lead", "label": 0}
+{"obj1": "human body", "obj2": "dry ice", "label": 1}
+{"obj1": "human body", "obj2": "freezer", "label": 1}
+{"obj1": "human body", "obj2": "white frost", "label": 1}
+{"obj1": "human body", "obj2": "snow", "label": 1}
+{"obj1": "human body", "obj2": "icecream", "label": 1}
+{"obj1": "human body", "obj2": "ice", "label": 1}
+{"obj1": "human body", "obj2": "refrigerator", "label": 1}
+{"obj1": "human body", "obj2": "room temperature", "label": 1}
+{"obj1": "human body", "obj2": "water", "label": 1}
+{"obj1": "human body", "obj2": "rain", "label": 1}
+{"obj1": "human body", "obj2": "simmering soup ", "label": 0}
+{"obj1": "human body", "obj2": "water vapor", "label": 0}
+{"obj1": "human body", "obj2": "frying oil", "label": 0}
+{"obj1": "human body", "obj2": "deep red fire", "label": 0}
+{"obj1": "human body", "obj2": "melted aluminium", "label": 0}
+{"obj1": "human body", "obj2": "blue flame", "label": 0}
+{"obj1": "human body", "obj2": "melted steel", "label": 0}
+{"obj1": "human body", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "human body", "obj2": "sun", "label": 0}
+{"obj1": "human body", "obj2": "melted lead", "label": 0}
+{"obj1": "simmering soup ", "obj2": "dry ice", "label": 1}
+{"obj1": "simmering soup ", "obj2": "freezer", "label": 1}
+{"obj1": "simmering soup ", "obj2": "white frost", "label": 1}
+{"obj1": "simmering soup ", "obj2": "snow", "label": 1}
+{"obj1": "simmering soup ", "obj2": "icecream", "label": 1}
+{"obj1": "simmering soup ", "obj2": "ice", "label": 1}
+{"obj1": "simmering soup ", "obj2": "refrigerator", "label": 1}
+{"obj1": "simmering soup ", "obj2": "room temperature", "label": 1}
+{"obj1": "simmering soup ", "obj2": "water", "label": 1}
+{"obj1": "simmering soup ", "obj2": "rain", "label": 1}
+{"obj1": "simmering soup ", "obj2": "melted butter", "label": 1}
+{"obj1": "simmering soup ", "obj2": "human body", "label": 1}
+{"obj1": "simmering soup ", "obj2": "frying oil", "label": 0}
+{"obj1": "simmering soup ", "obj2": "deep red fire", "label": 0}
+{"obj1": "simmering soup ", "obj2": "melted aluminium", "label": 0}
+{"obj1": "simmering soup ", "obj2": "blue flame", "label": 0}
+{"obj1": "simmering soup ", "obj2": "melted steel", "label": 0}
+{"obj1": "simmering soup ", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "simmering soup ", "obj2": "sun", "label": 0}
+{"obj1": "simmering soup ", "obj2": "melted lead", "label": 0}
+{"obj1": "water vapor", "obj2": "dry ice", "label": 1}
+{"obj1": "water vapor", "obj2": "freezer", "label": 1}
+{"obj1": "water vapor", "obj2": "white frost", "label": 1}
+{"obj1": "water vapor", "obj2": "snow", "label": 1}
+{"obj1": "water vapor", "obj2": "icecream", "label": 1}
+{"obj1": "water vapor", "obj2": "ice", "label": 1}
+{"obj1": "water vapor", "obj2": "refrigerator", "label": 1}
+{"obj1": "water vapor", "obj2": "room temperature", "label": 1}
+{"obj1": "water vapor", "obj2": "water", "label": 1}
+{"obj1": "water vapor", "obj2": "rain", "label": 1}
+{"obj1": "water vapor", "obj2": "melted butter", "label": 1}
+{"obj1": "water vapor", "obj2": "human body", "label": 1}
+{"obj1": "water vapor", "obj2": "frying oil", "label": 0}
+{"obj1": "water vapor", "obj2": "deep red fire", "label": 0}
+{"obj1": "water vapor", "obj2": "melted aluminium", "label": 0}
+{"obj1": "water vapor", "obj2": "blue flame", "label": 0}
+{"obj1": "water vapor", "obj2": "melted steel", "label": 0}
+{"obj1": "water vapor", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "water vapor", "obj2": "sun", "label": 0}
+{"obj1": "water vapor", "obj2": "melted lead", "label": 0}
+{"obj1": "frying oil", "obj2": "dry ice", "label": 1}
+{"obj1": "frying oil", "obj2": "freezer", "label": 1}
+{"obj1": "frying oil", "obj2": "white frost", "label": 1}
+{"obj1": "frying oil", "obj2": "snow", "label": 1}
+{"obj1": "frying oil", "obj2": "icecream", "label": 1}
+{"obj1": "frying oil", "obj2": "ice", "label": 1}
+{"obj1": "frying oil", "obj2": "refrigerator", "label": 1}
+{"obj1": "frying oil", "obj2": "room temperature", "label": 1}
+{"obj1": "frying oil", "obj2": "water", "label": 1}
+{"obj1": "frying oil", "obj2": "rain", "label": 1}
+{"obj1": "frying oil", "obj2": "melted butter", "label": 1}
+{"obj1": "frying oil", "obj2": "human body", "label": 1}
+{"obj1": "frying oil", "obj2": "simmering soup ", "label": 1}
+{"obj1": "frying oil", "obj2": "water vapor", "label": 1}
+{"obj1": "frying oil", "obj2": "deep red fire", "label": 0}
+{"obj1": "frying oil", "obj2": "melted aluminium", "label": 0}
+{"obj1": "frying oil", "obj2": "blue flame", "label": 0}
+{"obj1": "frying oil", "obj2": "melted steel", "label": 0}
+{"obj1": "frying oil", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "frying oil", "obj2": "sun", "label": 0}
+{"obj1": "frying oil", "obj2": "melted lead", "label": 0}
+{"obj1": "deep red fire", "obj2": "dry ice", "label": 1}
+{"obj1": "deep red fire", "obj2": "freezer", "label": 1}
+{"obj1": "deep red fire", "obj2": "white frost", "label": 1}
+{"obj1": "deep red fire", "obj2": "snow", "label": 1}
+{"obj1": "deep red fire", "obj2": "icecream", "label": 1}
+{"obj1": "deep red fire", "obj2": "ice", "label": 1}
+{"obj1": "deep red fire", "obj2": "refrigerator", "label": 1}
+{"obj1": "deep red fire", "obj2": "room temperature", "label": 1}
+{"obj1": "deep red fire", "obj2": "water", "label": 1}
+{"obj1": "deep red fire", "obj2": "rain", "label": 1}
+{"obj1": "deep red fire", "obj2": "melted butter", "label": 1}
+{"obj1": "deep red fire", "obj2": "human body", "label": 1}
+{"obj1": "deep red fire", "obj2": "simmering soup ", "label": 1}
+{"obj1": "deep red fire", "obj2": "water vapor", "label": 1}
+{"obj1": "deep red fire", "obj2": "frying oil", "label": 1}
+{"obj1": "deep red fire", "obj2": "melted lead", "label": 1}
+{"obj1": "deep red fire", "obj2": "melted aluminium", "label": 0}
+{"obj1": "deep red fire", "obj2": "blue flame", "label": 0}
+{"obj1": "deep red fire", "obj2": "melted steel", "label": 0}
+{"obj1": "deep red fire", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "deep red fire", "obj2": "sun", "label": 0}
+{"obj1": "melted aluminium", "obj2": "dry ice", "label": 1}
+{"obj1": "melted aluminium", "obj2": "freezer", "label": 1}
+{"obj1": "melted aluminium", "obj2": "white frost", "label": 1}
+{"obj1": "melted aluminium", "obj2": "snow", "label": 1}
+{"obj1": "melted aluminium", "obj2": "icecream", "label": 1}
+{"obj1": "melted aluminium", "obj2": "ice", "label": 1}
+{"obj1": "melted aluminium", "obj2": "refrigerator", "label": 1}
+{"obj1": "melted aluminium", "obj2": "room temperature", "label": 1}
+{"obj1": "melted aluminium", "obj2": "water", "label": 1}
+{"obj1": "melted aluminium", "obj2": "rain", "label": 1}
+{"obj1": "melted aluminium", "obj2": "melted butter", "label": 1}
+{"obj1": "melted aluminium", "obj2": "human body", "label": 1}
+{"obj1": "melted aluminium", "obj2": "simmering soup ", "label": 1}
+{"obj1": "melted aluminium", "obj2": "water vapor", "label": 1}
+{"obj1": "melted aluminium", "obj2": "frying oil", "label": 1}
+{"obj1": "melted aluminium", "obj2": "deep red fire", "label": 1}
+{"obj1": "melted aluminium", "obj2": "melted lead", "label": 1}
+{"obj1": "melted aluminium", "obj2": "blue flame", "label": 0}
+{"obj1": "melted aluminium", "obj2": "melted steel", "label": 0}
+{"obj1": "melted aluminium", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "melted aluminium", "obj2": "sun", "label": 0}
+{"obj1": "blue flame", "obj2": "dry ice", "label": 1}
+{"obj1": "blue flame", "obj2": "freezer", "label": 1}
+{"obj1": "blue flame", "obj2": "white frost", "label": 1}
+{"obj1": "blue flame", "obj2": "snow", "label": 1}
+{"obj1": "blue flame", "obj2": "icecream", "label": 1}
+{"obj1": "blue flame", "obj2": "ice", "label": 1}
+{"obj1": "blue flame", "obj2": "refrigerator", "label": 1}
+{"obj1": "blue flame", "obj2": "room temperature", "label": 1}
+{"obj1": "blue flame", "obj2": "water", "label": 1}
+{"obj1": "blue flame", "obj2": "rain", "label": 1}
+{"obj1": "blue flame", "obj2": "melted butter", "label": 1}
+{"obj1": "blue flame", "obj2": "human body", "label": 1}
+{"obj1": "blue flame", "obj2": "simmering soup ", "label": 1}
+{"obj1": "blue flame", "obj2": "water vapor", "label": 1}
+{"obj1": "blue flame", "obj2": "frying oil", "label": 1}
+{"obj1": "blue flame", "obj2": "deep red fire", "label": 1}
+{"obj1": "blue flame", "obj2": "melted aluminium", "label": 1}
+{"obj1": "blue flame", "obj2": "melted lead", "label": 1}
+{"obj1": "blue flame", "obj2": "melted steel", "label": 0}
+{"obj1": "blue flame", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "blue flame", "obj2": "sun", "label": 0}
+{"obj1": "melted steel", "obj2": "dry ice", "label": 1}
+{"obj1": "melted steel", "obj2": "freezer", "label": 1}
+{"obj1": "melted steel", "obj2": "white frost", "label": 1}
+{"obj1": "melted steel", "obj2": "snow", "label": 1}
+{"obj1": "melted steel", "obj2": "icecream", "label": 1}
+{"obj1": "melted steel", "obj2": "ice", "label": 1}
+{"obj1": "melted steel", "obj2": "refrigerator", "label": 1}
+{"obj1": "melted steel", "obj2": "room temperature", "label": 1}
+{"obj1": "melted steel", "obj2": "water", "label": 1}
+{"obj1": "melted steel", "obj2": "rain", "label": 1}
+{"obj1": "melted steel", "obj2": "melted butter", "label": 1}
+{"obj1": "melted steel", "obj2": "human body", "label": 1}
+{"obj1": "melted steel", "obj2": "simmering soup ", "label": 1}
+{"obj1": "melted steel", "obj2": "water vapor", "label": 1}
+{"obj1": "melted steel", "obj2": "frying oil", "label": 1}
+{"obj1": "melted steel", "obj2": "deep red fire", "label": 1}
+{"obj1": "melted steel", "obj2": "melted aluminium", "label": 1}
+{"obj1": "melted steel", "obj2": "blue flame", "label": 1}
+{"obj1": "melted steel", "obj2": "melted lead", "label": 1}
+{"obj1": "melted steel", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "melted steel", "obj2": "sun", "label": 0}
+{"obj1": "incandescent light bulb", "obj2": "dry ice", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "freezer", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "white frost", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "snow", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "icecream", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "ice", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "refrigerator", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "room temperature", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "water", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "rain", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "melted butter", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "human body", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "simmering soup ", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "water vapor", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "frying oil", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "deep red fire", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "melted aluminium", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "blue flame", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "melted steel", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "melted lead", "label": 1}
+{"obj1": "incandescent light bulb", "obj2": "sun", "label": 0}
+{"obj1": "sun", "obj2": "dry ice", "label": 1}
+{"obj1": "sun", "obj2": "freezer", "label": 1}
+{"obj1": "sun", "obj2": "white frost", "label": 1}
+{"obj1": "sun", "obj2": "snow", "label": 1}
+{"obj1": "sun", "obj2": "icecream", "label": 1}
+{"obj1": "sun", "obj2": "ice", "label": 1}
+{"obj1": "sun", "obj2": "refrigerator", "label": 1}
+{"obj1": "sun", "obj2": "room temperature", "label": 1}
+{"obj1": "sun", "obj2": "water", "label": 1}
+{"obj1": "sun", "obj2": "rain", "label": 1}
+{"obj1": "sun", "obj2": "melted butter", "label": 1}
+{"obj1": "sun", "obj2": "human body", "label": 1}
+{"obj1": "sun", "obj2": "simmering soup ", "label": 1}
+{"obj1": "sun", "obj2": "water vapor", "label": 1}
+{"obj1": "sun", "obj2": "frying oil", "label": 1}
+{"obj1": "sun", "obj2": "deep red fire", "label": 1}
+{"obj1": "sun", "obj2": "melted aluminium", "label": 1}
+{"obj1": "sun", "obj2": "blue flame", "label": 1}
+{"obj1": "sun", "obj2": "melted steel", "label": 1}
+{"obj1": "sun", "obj2": "incandescent light bulb", "label": 1}
+{"obj1": "sun", "obj2": "melted lead", "label": 1}
+{"obj1": "melted lead", "obj2": "dry ice", "label": 1}
+{"obj1": "melted lead", "obj2": "freezer", "label": 1}
+{"obj1": "melted lead", "obj2": "white frost", "label": 1}
+{"obj1": "melted lead", "obj2": "snow", "label": 1}
+{"obj1": "melted lead", "obj2": "icecream", "label": 1}
+{"obj1": "melted lead", "obj2": "ice", "label": 1}
+{"obj1": "melted lead", "obj2": "refrigerator", "label": 1}
+{"obj1": "melted lead", "obj2": "room temperature", "label": 1}
+{"obj1": "melted lead", "obj2": "water", "label": 1}
+{"obj1": "melted lead", "obj2": "rain", "label": 1}
+{"obj1": "melted lead", "obj2": "melted butter", "label": 1}
+{"obj1": "melted lead", "obj2": "human body", "label": 1}
+{"obj1": "melted lead", "obj2": "simmering soup ", "label": 1}
+{"obj1": "melted lead", "obj2": "water vapor", "label": 1}
+{"obj1": "melted lead", "obj2": "frying oil", "label": 1}
+{"obj1": "melted lead", "obj2": "deep red fire", "label": 0}
+{"obj1": "melted lead", "obj2": "melted aluminium", "label": 0}
+{"obj1": "melted lead", "obj2": "blue flame", "label": 0}
+{"obj1": "melted lead", "obj2": "melted steel", "label": 0}
+{"obj1": "melted lead", "obj2": "incandescent light bulb", "label": 0}
+{"obj1": "melted lead", "obj2": "sun", "label": 0}
