@@ -9,7 +9,7 @@ For `mass`, `temperature`, `hardness`, `size` and `height` task, the pair is con
 You can easily load the dataset from Huggingface Datasets API:
 
 
-```
+```python
 from datasets import load_dataset
 
 
