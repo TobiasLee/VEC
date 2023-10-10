@@ -1,6 +1,6 @@
 # VEC
 
-Visual and Embodied Concepts evaluation benchmark.
+Visual and Embodied Concepts evaluation benchmark. EMNLP 2023 Main Conference. 
 
 For `shape`, `material` and `color` task, there is an object and corresponding two options for the given property, e.g., `chair is made of wood instead of jade`.
 
@@ -39,11 +39,10 @@ print(data['mass']['test'][0])
 If you found this benchmark, please kindly cite our paper:
 
 ```latex
-@misc{
-li2023VEC,
-title={What Does Vision Supervision Bring to Language Models? A Case Study of {CLIP}},
-author={Lei Li and Jingjing Xu and Qingxiu Dong and Ce Zheng and Qi Liu and Lingpeng Kong and Xu Sun},
-year={2023},
-url={https://openreview.net/forum?id=SdBfRJE9SX-}
+@article{li2023vec,
+  title={Can Language Models Understand Physical Concepts?},
+  author={Li, Lei and Xu, Jingjing and Dong, Qingxiu and Zheng, Ce and Liu, Qi and Kong, Lingpeng and Sun, Xu},
+  journal={arXiv preprint arXiv:2305.14057},
+  year={2023}
 }
 ```
